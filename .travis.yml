@@ -15,7 +15,7 @@ script: #script a ejecutar
 notifications:
   email:
     recipients:
-      - johny.jxc@gmail.com
+     # - johny.jxc@gmail.com
       - xjohnyx@pm.me
     on_success: always #Cuando este funcione envia correo
     on_failure: always #Cuando este falle, envia correo
